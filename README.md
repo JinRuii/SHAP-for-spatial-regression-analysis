@@ -16,15 +16,22 @@ This repository provides a comprehensive suite of Python scripts demonstrating t
 Below are some of the visualizations that can be generated using the scripts in this repository:
 
 ### Learning Curve Analysis
-![Learning Curve]
 ![image](https://github.com/user-attachments/assets/e16f7456-8350-4e26-81d9-ec038daf9401)
 
-
 ### SHAP Feature Importance
-![SHAP Importance](/images/shap_importance.png)
+![image](https://github.com/user-attachments/assets/513a88a6-9583-4e17-a796-af9037af2993)
 
 ### SHAP Dependence Plot
-![Dependence Plot](/images/dependence_plot.png)
+![image](https://github.com/user-attachments/assets/11d2bee3-6331-4d5a-bfb3-5823e581047f)
+
+### Local Feature Contributions for a Single Prediction Using SHAP
+![image](https://github.com/user-attachments/assets/aad13b29-d1cb-43ca-a8f7-9b442ca8f4c9)
+
+### SHAP Decision Plot: Cumulative Feature Contributions for Selected Predictions
+![image](https://github.com/user-attachments/assets/77257578-0adb-46d0-a02f-7b03f0e595ac)
+
+### SHAP Heatmap Plot: Feature Contributions Across Multiple Predictions
+![image](https://github.com/user-attachments/assets/45626afc-130e-4c51-881b-11853e9a635d)
 
 ## 🚀 Quick Start
 

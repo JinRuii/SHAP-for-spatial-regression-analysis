@@ -9,7 +9,7 @@ This repository provides a comprehensive suite of Python scripts demonstrating t
 - **Hyperparameter Optimization**: Extensive use of GridSearchCV to find optimal model settings.
 - **Performance Metrics**: Calculation of RMSE and R² to evaluate model performance.
 - **Model Interpretability**: Application of SHAP for explaining model predictions.
-- **Visualizations**: Generate multiple types of plots including learning curves, SHAP feature importance, and dependence plots.
+- **Visualizations**: Generate multiple types of plots including learning curves, SHAP feature importance, dependence plots, Local feature contributions, SHAP decision plot, and SHAP heatmap plot.
 
 ## 📊 Example Visualizations
 
@@ -20,6 +20,7 @@ Below are some of the visualizations that can be generated using the scripts in 
 
 ### SHAP Feature Importance
 ![image](https://github.com/user-attachments/assets/513a88a6-9583-4e17-a796-af9037af2993)
+![image](https://github.com/user-attachments/assets/bc4a29b2-e59a-4c1d-8565-4f8ab8586401)
 
 ### SHAP Dependence Plot
 ![image](https://github.com/user-attachments/assets/11d2bee3-6331-4d5a-bfb3-5823e581047f)
